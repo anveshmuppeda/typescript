@@ -9,9 +9,8 @@ Welcome to the Beginner's Hands-On Guide to TypeScript! This repository is desig
 2. [Getting Started](#getting-started)
 3. [Learning Path](#learning-path)
 4. [Exercises](#exercises)
-5. [Resources](#resources)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Project Maintainers & Contributors](#project-maintainers-&-contributors)
+6. [License](#license)
 
 ## Introduction
 
@@ -21,9 +20,9 @@ Welcome to the Beginner's Hands-On Guide to TypeScript! Whether you're new to pr
 
 To get started with TypeScript, follow these steps:
 
-1. **Install TypeScript**: Provide instructions on how to install TypeScript using npm.
-2. **Set Up Your Environment**: Guide users through setting up a development environment with TypeScript support (e.g., Visual Studio Code).
-3. **Basic TypeScript Concepts**: Introduce basic concepts such as types, interfaces, and functions in TypeScript.
+1. **Install TypeScript**: [How to install TypeScript using npm](./install.md).
+2. **Set Up Your Environment**: [Visual Studio Code](./install.md).
+3. **Basic TypeScript Concepts**: [Basic concepts such as types, interfaces, and functions in TypeScript](./examples/).
 
 ## Learning Path
 
@@ -51,7 +50,7 @@ The learning path is structured to build your TypeScript skills progressively:
 
 ## Exercises
 
-Practice what you've learned with hands-on exercises:
+Practice what you've learned with hands-on exercises(follow: [Example Section](./examples/)):
 
 1. **Basic Exercises**
    - Write TypeScript code to declare variables with different types.
@@ -66,9 +65,12 @@ Practice what you've learned with hands-on exercises:
    - Implement a backend service with TypeScript and Node.js.
 
 
-## Contributing
-
-Contributions to this guide are welcome! If you have improvements, corrections, or new exercises to add, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+## Project Maintainers & Contributors  
+<table>
+  <tr>
+    <td align="center"><a href="https://anveshmuppeda.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/115966808?v=4" width="100px;" alt=""/><br /><sub><b>Anvesh Muppeda</b></sub></a></td>
+  </tr>
+</table>  
 
 ## License
 
