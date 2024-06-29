@@ -1,4 +1,4 @@
-## Installation  
+## Installation of npm  
 
 ### Install npm on major Linux distros  
 Use the appropriate command on your distribution to install npm. On some distributions, npm is installed along with the nodejs package. On others, the two packages are installed separately. The following commands will install both npm and Node.js. Feel free to omit the nodejs package when applicable, but most distributions will install it automatically as a dependency.  
@@ -64,4 +64,11 @@ $ npm ls
 ```bash
 $ npm help
 ```
-These are the all commands you’ll use when installing and removing packages, as well as searching for them by name. Check the npm help command output for further instructions, as there’s a lot more npm can do.
+These are the all commands you’ll use when installing and removing packages, as well as searching for them by name. Check the npm help command output for further instructions, as there’s a lot more npm can do.  
+
+## Install typescript package  
+```bash
+npm install -g typescript
+```  
+This command will ensure that typescript is installed in your machine.  
+
