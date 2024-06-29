@@ -1,3 +1,4 @@
+// Generics program example(Storage Containers)
 class StorageContainer<T> {
     private contents: T[];
 
